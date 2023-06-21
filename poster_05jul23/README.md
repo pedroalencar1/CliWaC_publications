@@ -1,3 +1,7 @@
+# CliWaC poster party - 05 of Jully 2023
+
+**In this poster we present some results related to our milestones, including occurrence and trends of Flash droughts across Germany/Brandenburg**
+
 For more information, check my page at [TU-Berlin](https://www.tu.berlin/oekohydro/team/pedro-alencar/)
 
 You may also find interesting to explore some of my apps related to this project:
